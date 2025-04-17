@@ -1,6 +1,6 @@
 <?php
 
-$message = "Sistema iniciado com sucesso.";
+$message = "Bem-vindo! Sistema iniciado com sucesso.";
 
 echo $message;
 
